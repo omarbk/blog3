@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    commerce
+                    commerce3
                 </div>
 
                 <div class="links">
